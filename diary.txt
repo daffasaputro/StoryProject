@@ -1,3 +1,4 @@
 Hari pertama: Belajar SELECT
 
 Hari ketiga: Belajar JOIN
+Hari keempat: Belajar function
