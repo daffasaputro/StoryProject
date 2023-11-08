@@ -1,1 +1,2 @@
 Supplier index
+Supplier upsert
