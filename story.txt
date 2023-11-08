@@ -1,1 +1,7 @@
 Cerita pertama
+
+Cerita kedua {
+    Sub cerita 1
+    Sub cerita 2
+    sub cerita 3
+}
