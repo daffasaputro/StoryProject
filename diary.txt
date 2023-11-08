@@ -4,3 +4,4 @@ Hari ketiga: Belajar JOIN
 
 Hari kelima: Belajar SP
 Hari keempat: Belajar function
+Hari keenam: Belajar Java
