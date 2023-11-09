@@ -6,3 +6,4 @@ Hari kelima: Belajar SP
 Hari keempat: Belajar function
 Hari keenam: Belajar Java
 Hari ketujuh: Belajar variable di java
+Hari kedelapan: Belajar kondisi di java
