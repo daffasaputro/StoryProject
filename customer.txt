@@ -1,2 +1,4 @@
 Customer index
 Customer insert
+Customer update
+Customer delete
